@@ -1,0 +1,3 @@
+Reference Beacons urn:esda:atlas:beacon:546C0E52F5D9
+ Reference Distance: 1.0m
+ Reference LineOfSite: R_MvObj
