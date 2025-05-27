@@ -1,0 +1,1 @@
+## In this folder data are organized by scenario.
