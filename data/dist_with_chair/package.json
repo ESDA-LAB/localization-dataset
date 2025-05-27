@@ -1,8 +1,0 @@
-{
-  "name": "dist_rotated_los",
-  "version": "1.0.0",
-  "dependencies": {
-    "scenario": "unstable"
-
-  }
-}

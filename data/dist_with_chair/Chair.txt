@@ -1,1 +1,0 @@
-Take samples with the BLE tags with the TIs at normal direction and placed a chair in the half of distance.

@@ -1,1 +1,0 @@
-Take samples with the BLE tags with the TIs look to opposite direction. With Line of Sight.
